@@ -1,0 +1,17 @@
+/Users/jacksonkirk/Projects/MvcMovie/MvcMovie
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=MvcMovie
+--content-root=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Home/About.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Home/Contact.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Home/Index.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Movies/Create.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Movies/Delete.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Movies/Details.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Movies/Edit.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Movies/Index.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Shared/Error.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/_ViewImports.cshtml
+--file=/Users/jacksonkirk/Projects/MvcMovie/MvcMovie/Views/_ViewStart.cshtml

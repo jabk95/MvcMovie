@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{EB95BBF2-0EF8-4043-A0D9-634C6CE7974B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Views/Movies/Details.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Properties/launchSettings.json">
     <Files>
       <File FileName="MvcMovie/Models/Movie.cs" Line="12" Column="13" />
       <File FileName="MvcMovie/MvcMovie.csproj" Line="1" Column="1" />
@@ -15,7 +15,8 @@
       <File FileName="MvcMovie/Views/Movies/Edit.cshtml" Line="31" Column="4" />
       <File FileName="MvcMovie/Views/Movies/Delete.cshtml" Line="32" Column="3" />
       <File FileName="MvcMovie/Views/Movies/Create.cshtml" Line="34" Column="19" />
-      <File FileName="MvcMovie/Views/Movies/Details.cshtml" Line="30" Column="14" />
+      <File FileName="MvcMovie/Views/Movies/Details.cshtml" Line="36" Column="14" />
+      <File FileName="MvcMovie/Properties/launchSettings.json" Line="15" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
